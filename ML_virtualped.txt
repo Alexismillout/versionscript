@@ -1,4 +1,4 @@
 {
-    "version": "1.1",
-    "news": "Some update news"
+    "version": "1.0",
+    "news": "just add code"
 }
