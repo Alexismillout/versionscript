@@ -1,4 +1,4 @@
 {
-    "version": "1.8",
-    "news": "new permission system, new wipe system much more advantageous"
+    "version": "1.8.1",
+    "news": "fixe error report"
 }
